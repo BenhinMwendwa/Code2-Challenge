@@ -8,10 +8,7 @@ function Array(initial, final) {
     return result;
   }
   
-
   const array1 = Array(4, 7); //initialize
   console.log(array1);
   
-  const array2 = Array(-4, 7);
-  console.log(array2);
   
